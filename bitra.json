@@ -1,13 +1,13 @@
 {
     "response": [
       {
-          "datetime": 1670001587,
-          "filename": "PalyrimOS-1.2-bitra-OFFICIAL-GAPPS-20221112.zip",
-          "id": "e9e01a18f53738964c7a0669cef86c9d",
+          "datetime": 1673575117,
+          "filename": "PalyrimOS-1.5-bitra-OFFICIAL-20230113.zip",
+          "id": "2e2411a2a454a275b47eb638c049513b",
           "romtype": "OFFICIAL",
-          "size": 1241298931,
+          "size": 19756849561,
           "url": "https://sourceforge.net/projects/palyrimos/files/13/bitra/PalyrimOS-1.2-bitra-OFFICIAL-GAPPS-20221112.zip/download",
-          "version": "1.4"
+          "version": "1.5"
       }
     ]
   }
